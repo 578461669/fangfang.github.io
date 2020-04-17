@@ -4,7 +4,7 @@ I know this is not programming, but it is difficult enough for me to cope with!
 
 好久没写英语了不知道写的对不对！或许可以在这里写英语作文哈~
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+我好不喜欢这个字体，谁知道该怎么换字体啊？
 
 ### Markdown
 
