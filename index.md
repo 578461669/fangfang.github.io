@@ -1,6 +1,8 @@
 ## Welcome to Fang Fang's blog!
 
-You can use the [editor on GitHub](https://github.com/578461669/fangfang.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I know this is not programming, but it is difficult enough for me to cope with!
+
+好久没写英语了不知道写的对不对！或许可以在这里写英语作文哈~
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
