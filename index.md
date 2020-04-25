@@ -6,9 +6,9 @@ I know this is not programming, but it is difficult enough for me to cope with!
 
 我好不喜欢这个字体，谁知道该怎么换字体啊？
 
-### Markdown
+### About Me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My name is Fang Ziang, a student in Sichuan Universiry. My major is Information Resource Management.
 
 ```markdown
 Syntax highlighted code block
